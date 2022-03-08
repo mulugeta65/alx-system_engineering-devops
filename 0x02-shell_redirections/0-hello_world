@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 lpr Hello, World
+=======
+echo Hello, World
+>>>>>>> 9d0c4f55455035eb1fdf1e75bd7ca6cc675b65f4
